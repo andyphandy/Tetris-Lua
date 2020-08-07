@@ -1,2 +1,4 @@
 # Tetris Lua
-Functional, however, messy coding. Currently cleaning up at the moment.
+TODO: Clean up code
+
+Download the game [here](LuaTetris.zip).
